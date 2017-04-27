@@ -1,7 +1,12 @@
+## A Slide Show Example
+
+Hello Josef, We must meet soon ... 
 
 ---
 
-Hello, World!
+## An embedded You-Tube video
+
+![Video](https://www.youtube.com/embed/ubaX1Smg6pY) 
 
 ---
 
